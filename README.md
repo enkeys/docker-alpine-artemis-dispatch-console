@@ -1,0 +1,1 @@
+# docker-alpine-artemis-dispatch-console
